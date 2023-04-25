@@ -1,7 +1,7 @@
 let library;
 const DEFAULT_DATA = [
   { name: "The Art of War", author: "孫子", status: "read" },
-  { name: "THE Odyssey", author: "Homer", status: "not read" },
+  { name: "The Odyssey", author: "Homer", status: "not read" },
 ];
 const $name = document.querySelector("#name");
 const $author = document.querySelector("#author");
