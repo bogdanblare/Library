@@ -1,6 +1,6 @@
 ## Library
 
-The [Library](https://bogdanblare.github.io/Library/) project is a web application designed to provide a digital library management system. This platform offers a user-friendly interface for managing and organizing books, as well as providing a seamless experience for users to browse and search for books.
+The [Library](https://bogdanblare.github.io/Library/) is a web application designed to provide a digital library management system. This platform offers a user-friendly interface for managing and organizing books, as well as providing a seamless experience for users to browse and search for books.
 
 With a sleek and intuitive design, the Library project ensures an enjoyable user experience. The user interface is responsive and adaptable, allowing users to access and explore the library from various devices and screen sizes.
 
