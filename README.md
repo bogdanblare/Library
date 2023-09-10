@@ -1,4 +1,4 @@
-## Library
+## ✨ Library
 
 The [Library](https://bogdanblare.github.io/Library/) is a web application designed to provide a digital library management system. This platform offers a user-friendly interface for managing and organizing books, as well as providing a seamless experience for users to browse and search for books.
 
@@ -16,6 +16,6 @@ Key features of this project include:
 
 - Borrowing and Reserving Books: The Library project facilitates the borrowing and reserving of books. Users can check the availability of books, request to borrow or reserve them, and keep track of their borrowing history. This streamlines the process of managing book transactions.
 - 
-## Screenshots
+## 📸 Screenshots
 
 ![App Screenshot](https://raw.githubusercontent.com/bogdanblare/Library/main/Screenshot.png)
